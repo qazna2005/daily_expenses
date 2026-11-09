@@ -1,0 +1,12 @@
+
+date,product,category,amount,description,payment_method
+2026-10-01,Non,Oziq-ovqat,5000,Kundalik oziq-ovqat,Cash
+2026-10-01,Aroq,Alkogol,50000,Alkogolli mahsulot,Card
+2026-10-02,Avtobus,Transport,15000,Yol xarajati,Card
+2026-10-02,Kitob,Ta'lim,100000,Oquv kitobi,Card
+2026-10-03,Kino chiptasi,Ko'ngilochar,30000,Dam olish,Cash
+2026-10-03,Dori,Salomatlik,70000,Dori xaridi,Card
+2026-10-04,Meva va sabzavot,Oziq-ovqat,35000,Oziq-ovqat,Card
+2026-10-04,Telefon to'lovi,Aloqa,40000,Aloqa xizmati,Card
+2026-10-05,Kiyim,Kiyim-kechak,150000,Kiyim xaridi,Card
+2026-10-05,Taksi,Transport,12000,Yol xarajati,Cash
